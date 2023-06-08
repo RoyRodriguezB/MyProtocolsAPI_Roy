@@ -1,0 +1,1 @@
+﻿Scaffold-DBContext -f "SERVER=.;DATABASE=MyProtocolsDB; INTEGRATED SECURITY=FALSE; User Id=MyProtocolsAPIUser; Password=123456" Microsoft.EntityframeworkCore.SqlServer -OutputDir Models
